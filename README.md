@@ -12,8 +12,10 @@ https://drive.google.com/file/d/1L8VRtjmGXfY_3HCJSKYlW1_-dRug5LKJ/view?usp=shari
  2.1 Final_project.ipynb
  
  #### 3. The output are 2 excel files.
- 3.1 Final_cuts_data_Test2.xlsx
- 3.2 Final_revenue_data_Test2.xlsx
+ 3.1 Final_data_Test2.xlsx
+ 3.2 Final_cuts_data_Test2.xlsx
+ 3.3 Final_revenue_data_Test2.xlsx
+ 3.4 Final_revenue_cuts_data_Test2.xlsx
  
  #### 4. The presentation slides is in pdf:
  4.1 AB testing slides.pdf
